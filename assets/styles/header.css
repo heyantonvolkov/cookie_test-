@@ -1,0 +1,18 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color: #28E262;
+	height: 60px;
+	padding: 0 15px;
+}
+
+.header__link {
+	color: #fff;
+	margin-right: 15px;
+	font-size: 14px;
+}
+
+.header__img {
+	width: 150px;
+}

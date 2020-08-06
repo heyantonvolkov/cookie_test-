@@ -1,0 +1,23 @@
+.hero {
+	background-color: #28E262;
+}
+
+.hero__content {
+	color: #fff;
+
+}
+
+.hero__title {
+	font-size: 20px;
+}
+
+.hero__subtitle {
+	font-size: 14px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+}
+
+.hero__img {
+	width: 520px;
+}
+

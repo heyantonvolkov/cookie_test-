@@ -1,0 +1,25 @@
+.button {
+	border: none;
+	padding: 5px;
+	font-size: 14px;
+	background-color: #fff;
+	color: #000;
+}
+
+.button.-m {
+	padding: 10px 15px;
+}
+
+.button.-premium {
+	background-color: gold;
+}
+
+.button.-inverse {
+	color: #fff;
+	border: 1px solid #fff;
+	background-color: transparent;
+}
+
+.button.-mr10 {
+	margin-right: 10px;
+}
